@@ -1,0 +1,28 @@
+name: sacredlamb
+favicon: null
+layout_spectrum: 0.7152954437769949
+typography_spectrum: 0.606784533476457
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.908753230702132
+  lightness: 0.8025426755193621
+  saturation: 0.9939034099224955
+  rhythmicContrast: 0.6942209703847766
+purpose: []
