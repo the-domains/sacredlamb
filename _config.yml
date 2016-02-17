@@ -1,6 +1,6 @@
 name: sacredlamb
 favicon: null
-layout_spectrum: 0.92
+layout_spectrum: 0.55059
 typography_spectrum: 0.82666
 title: "Lan-Chi's AI website via Grid"
 cta:
@@ -22,7 +22,7 @@ color:
     - '#F4AFAB'
     - '#F4EEA9'
     - '#F4F482'
-  brandStrength: 0.8125
+  brandStrength: 0.1875
   lightness: 0.8025426755193621
   saturation: 0.25
   rhythmicContrast: 0.6942209703847766
